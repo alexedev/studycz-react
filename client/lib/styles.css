@@ -1,0 +1,27 @@
+.ui.grid.container.main {
+    padding-top:20px;
+}
+
+#vk_groups_40556543 {
+    padding-top: 10px;
+}
+
+#vk_groups_50760327 {
+    padding-top: 15px;
+}
+
+.ui.input.right {
+    float:right;
+}
+
+.padded-top {
+    padding-top: 14px;
+}
+
+.logo {
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+.button.margintop {
+    margin-top: 1em;
+}
